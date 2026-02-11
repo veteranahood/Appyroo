@@ -1,0 +1,21 @@
+chmod +x setup_project.shMyAPKGeneratorApp/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── example/
+│   │   │   │           └── myapkgenerator/
+│   │   │   │               └── MainActivity.java
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   │   └── activity_main.xml
+│   │   │   │   └── values/
+│   │   │   │       └── strings.xml
+│   │   │   └── AndroidManifest.xml
+│   │   └── build.gradle
+│   └── build.gradle
+├── build.gradle
+├── settings.gradle
+├── README.md
+└── .gitignore
